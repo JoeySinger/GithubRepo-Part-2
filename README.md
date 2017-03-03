@@ -1,8 +1,8 @@
-# Lab 3 - *Gitsy*
+# Lab 3 - *Github Repo*
 
-**Gitsy** is a GitHub Repo search app using the [GitHub API](https://developer.github.com/v3/search/#search-repositories).
+**Github Repo** is a GitHub Repo search app using the [GitHub API](https://developer.github.com/v3/search/#search-repositories).
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## User Stories
 
@@ -24,7 +24,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://imgur.com/jUfxGZ8.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/jgP9GsH.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -34,7 +34,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright 2017 Aditya Dhingra
+    Copyright 2017 [Joey Singer]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
